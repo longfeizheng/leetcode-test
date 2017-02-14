@@ -14,7 +14,7 @@ import java.util.Map;
  * 1.索引小的在前
  * 2.找出一组即可
  */
-public class leetcode_001_TwoSum {
+public class Leetcode_001_TwoSum {
     public static void main(String[] args) {
         int[] array = new int[]{2, 7, 11, 15};
         int[] arrayNew = twoSum(array, 9);
